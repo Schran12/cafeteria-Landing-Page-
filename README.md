@@ -3,9 +3,12 @@
 
 Este é um projeto de landing page responsiva para uma cafeteria fictícia, desenvolvido com foco em design moderno e usabilidade. Criado utilizando **HTML5**, **CSS3** e **JavaScript puro**, o site simula a experiência de um usuário navegando por um cardápio online com estilo, animações e interações.
 
+
+# ☕ Link do Projeto
+http://proejto-cafeteria12.netlify.app/
 ---
 
-## ��� Funcionalidades
+## ��� Funcionalidades
 
 - Menu de navegação fixo e interativo
 - Animação de menu hambúrguer para mobile
@@ -16,7 +19,7 @@ Este é um projeto de landing page responsiva para uma cafeteria fictícia, dese
 
 ---
 
-## ���️ Tecnologias Utilizadas
+## ���️ Tecnologias Utilizadas
 
 - **HTML5** – Estruturação semântica do conteúdo
 - **CSS3** – Layout estilizado com variáveis, flexbox e grid
@@ -24,7 +27,7 @@ Este é um projeto de landing page responsiva para uma cafeteria fictícia, dese
 
 ---
 
-## ��� Como executar o projeto
+## ��� Como executar o projeto
 
 1. Clone o repositório:
 ```bash
