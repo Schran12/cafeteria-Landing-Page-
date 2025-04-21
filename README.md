@@ -5,7 +5,7 @@ Este é um projeto de landing page responsiva para uma cafeteria fictícia, dese
 
 
 # ☕ Link do Projeto
-http://proejto-cafeteria12.netlify.app/
+https://projeto-cafeteria12.netlify.app/
 ---
 
 ## ��� Funcionalidades
